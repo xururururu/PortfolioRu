@@ -446,6 +446,9 @@ h1{
 .skill-js{
     background-image: url("img/Javascript.png");
 }
+.skill-java{
+    background-image: url("img/java1.png");
+}
 .skill-react{
     background-image: url("img/d32.png");
 }
@@ -457,6 +460,9 @@ h1{
 }
 .skill-sql{
     background-image: url("img/PS.png");
+}
+.skill-sketch{
+    background-image: url("img/sketch.png");
 }
 .skill-ruby{
     background-image: url("img/R2.png");
